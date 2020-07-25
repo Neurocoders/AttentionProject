@@ -1,5 +1,5 @@
-# AttentionProject
-NMA group project
+# AttentionProject - NMA Group Project
+
 Branch 1 Members :
   Deepak, Abeedha, Setare
   
