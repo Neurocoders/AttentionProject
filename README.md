@@ -10,5 +10,6 @@ Branch 2 members : Manil, Mahdi, Keerthana
 6. Function to calculate rolling window pearson correlation - Manil (Done)
 7. Vizualise histogram of time lags for maximum synchrony between any two areas of choice - Done
 8. Expand this for many areas - Done
+9. Measure the magnitude of correlations along with the lag value - To Do
 
 Note from Mahdi: if possible, write separate functions for: 1- initial filtering to remove noise (gaussian, moving average etc) 2- frequency band separation
