@@ -8,5 +8,7 @@ Branch 2 members : Manil, Mahdi, Keerthana
 4. Filtering data and adding it to the LFP function 
 5. Integrate high pass filtering and smoothening -Manil (Done)
 6. Function to calculate rolling window pearson correlation - Manil (Done)
-
+7. Built naive bayes classifier for one-side correct stimuli
+8. Have added option of choosing alpha, theta bands vs raw LFP data
+  
 Note from Mahdi: if possible, write separate functions for: 1- initial filtering to remove noise (gaussian, moving average etc) 2- frequency band separation
